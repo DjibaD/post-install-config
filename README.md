@@ -115,3 +115,16 @@ Registration Required: Require registration and login to create tickets
 
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/zwN33W1.jpeg" />
+</p>
+<p>
+Configure Agents (workers)
+Admin Panel -> Agents -> Add New
+Jane (Dept: SysAdmins)
+John (Dept: Support)
+
+
+</p>
+<br />
