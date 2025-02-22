@@ -124,7 +124,18 @@ Configure Agents (workers)
 Admin Panel -> Agents -> Add New
 Jane (Dept: SysAdmins)
 John (Dept: Support)
+  
+</p>
+<br />
 
-
+<p>
+<img src="https://i.imgur.com/xqzTCqZ.jpeg" />
+</p>
+<p>
+Configure Users (customers)
+Agent Panel -> Users -> Add New
+Karen
+Ken
+  
 </p>
 <br />
